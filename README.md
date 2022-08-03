@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/vivek_saha2" target="blank"><img src="https://img.shields.io/twitter/follow/vivek_saha2?logo=twitter&style=for-the-badge" alt="vivek_saha2" /></a> </p>
 
-- 🔭 I’m currently working on **Skills in Java**
+- 🔭 I’m currently working on **Skills in Java, DBMS**
 
 - 🌱 I’m currently learning **Data Science, App Development**
 
