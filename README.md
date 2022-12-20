@@ -43,5 +43,5 @@
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=VivekSaha05&theme=tokyonight_duo&border_radius=10" alt="viveksaha05" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=&theme=tokyonight_duo&border_radius=10" alt="viveksaha05" /></p>
  </div>
