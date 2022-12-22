@@ -4,7 +4,7 @@
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Carter+One&pause=1000&color=3EC156&center=true&width=435&lines=I%E2%80%99m+not+lazy.+I%E2%80%99m+just+on+energy+saving+mode+!;+If+it+works%2C+don%E2%80%99t+touch+it+again+%3A)" /> </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/vivek_saha2" target="blank"><img src="https://img.shields.io/twitter/follow/vivek_saha2?logo=twitter&style=for-the-badge" alt="vivek_saha2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vivek_saha2" target="_blank"><img src="https://img.shields.io/twitter/follow/vivek_saha2?logo=twitter&style=for-the-badge" alt="vivek_saha2" /></a> </p>
 
 - 🔭 I’m currently working on **Skills in Java, Python and DSA**
 
@@ -22,13 +22,13 @@
 
 <h2 align="left">Connect with me :</h2>
 <div align="left">
-  <a href="https://linkedin.com/in/viveksaha05"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <a href="mailto:viveksahapop@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.youtube.com/c/viveksaha?sub_confirmation=1"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-   <a href="https://instagram.com/vivek_saiyan"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-   <a href="https://twitter.com/vivek_saha2"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-   <a href="https://fb.com/viveksaha05"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-   <a href="https://t.me/Vivek_Saha"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/viveksaha05" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <a href="mailto:viveksahapop@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://www.youtube.com/c/viveksaha?sub_confirmation=1" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+   <a href="https://instagram.com/vivek_saiyan" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+   <a href="https://twitter.com/vivek_saha2" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+   <a href="https://fb.com/viveksaha05" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+   <a href="https://t.me/Vivek_Saha" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
 
 <h3 align="left">Web Tech Stack :</h3>
@@ -86,7 +86,7 @@
   <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
   <img alt="Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-  <a href="https://myanimelist.net/profile/Vivek_Saha"><img alt="MyAnimeList" src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"/></a>
+  <a href="https://myanimelist.net/profile/Vivek_Saha" target="_blank"><img alt="MyAnimeList" src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"/></a>
 </div><br/>
 
 ## 🏆 GitHub Trophies
