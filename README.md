@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello World, I'm <a href="https://linkedin.com/in/viveksaha05" target="_blank"> Vivek Saha </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Carter+One&pause=1000&color=3EC156&center=true&width=435&lines=I%E2%80%99m+not+lazy.+I%E2%80%99m+just+on+energy+saving+mode+!;+If+it+works%2C+don%E2%80%99t+touch+it+again+%3A)" /> </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif?cid=790b7611b9614e167ed147d113987d7e952266171629ec97&rid=giphy.gif&ct=g">
 
 <p align="left"> <a href="https://twitter.com/vivek_saha2" target="_blank"><img src="https://img.shields.io/twitter/follow/vivek_saha2?logo=twitter&style=for-the-badge" alt="vivek_saha2" /></a> </p>
 <a href="https://linktr.ee/viveksaha" target="_blank"><img alt="LinkTree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
