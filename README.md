@@ -5,6 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif?cid=790b7611b9614e167ed147d113987d7e952266171629ec97&rid=giphy.gif&ct=g">
 
 <p align="left"> <a href="https://twitter.com/vivek_saha2" target="_blank"><img src="https://img.shields.io/twitter/follow/vivek_saha2?logo=twitter&style=for-the-badge" alt="vivek_saha2" /></a> </p>
+<a href="https://visitorbadge.io/status?path=VivekSaha05"><img src="https://api.visitorbadge.io/api/visitors?path=VivekSaha05&label=Total%20Visitors&countColor=%2337d67a" /></a>
 <a href="https://linktr.ee/viveksaha" target="_blank"><img alt="LinkTree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 
 - 🔭 I’m currently working on **Skills in Java, Python and DSA**
