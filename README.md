@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Skills in DSA ~> Py**
 
-- 🌱 I’m currently learning **Web2 (FullStack)**
+- 🌱 I’m currently learning **Web2 (MERN Stack)**
 
 - 🏊🏻 Soon going to Dive into The World Of **WEB3**
 
