@@ -4,25 +4,24 @@
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Carter+One&pause=1000&color=3EC156&center=true&width=435&lines=I%E2%80%99m+not+lazy.+I%E2%80%99m+just+on+energy+saving+mode+!;+If+it+works%2C+don%E2%80%99t+touch+it+again+%3A)" /> </h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif?cid=790b7611b9614e167ed147d113987d7e952266171629ec97&rid=giphy.gif&ct=g">
 
-<p align="left"> <a href="https://twitter.com/vivek_saha2" target="_blank"><img src="https://img.shields.io/twitter/follow/vivek_saha2?logo=twitter&style=for-the-badge" alt="vivek_saha2" /></a> </p>
+<a href="https://linktr.ee/viveksaha" target="_blank"><img alt="LinkTree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a> <br>
 <a href="https://visitorbadge.io/status?path=VivekSaha05"><img src="https://api.visitorbadge.io/api/visitors?path=VivekSaha05&label=Total%20Visitors&countColor=%2337d67a" /></a>
-<a href="https://linktr.ee/viveksaha" target="_blank"><img alt="LinkTree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 
-- 🔭 I’m currently working on **Skills in DSA ~> Py**
+- 🔭 Currently improving my **DSA skills (JS)**
 
-- 🌱 I’m currently learning **Web2 (MERN Stack)**
+- 🌱 Learning and building with the **MERN Stack (Web2)**
 
-- 🏊🏻 Soon going to Dive into The World Of **WEB3**
+- 🏊🏻 Preparing to dive into the exciting world of *Web3 & Blockchain*
 
-- 📷 Also Managing a **<a href="https://www.youtube.com/c/VivekSaha?sub_confirmation=1" target="_blank">Youtube Channel</a>**
+- 📷 I also run a **<a href="https://www.youtube.com/c/VivekSaha?sub_confirmation=1" target="_blank">Youtube Channel</a>**
 
-- 👨‍💻 All of my projects are available at **<a href="https://viveksaha.netlify.app/" target="_blank">Portfolio</a>**
+- 👨‍💻 All of my projects are available at **<a href="https://viveksaha.vercel.app/" target="_blank">Portfolio</a>**
 
-- 💬 Ask me about **Web Devlopment / TechTalks / Anime**
+- 💬 Ask me about **Web Development, Tech, or Anime**
 
-- 📫 How to reach me **viveksahapop@gmail.com**
+- 📫 Reach me at: **viveksahapop@gmail.com**
 
-- 🔥 Fun fact *Watashi wa kaizoku-ō ni narimasu*
+- 🔥 Fun fact *Watashi wa kaizoku-ō ni narimasu! 🏴‍☠️*
 
 <h2 align="left">Connect with me :</h2>
 <div align="left">
