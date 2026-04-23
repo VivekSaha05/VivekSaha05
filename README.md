@@ -100,16 +100,23 @@
   <a href="https://myanimelist.net/profile/Vivek_Saha" target="_blank"><img alt="MyAnimeList" src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"/></a>
 </div><br/>
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=viveksaha05&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-<table>
- <tr>
-  <td><img src="https://github-readme-stats.vercel.app/api?username=viveksaha05&show_icons=true&theme=dark&locale=en" alt="viveksaha05" /></td>
-  <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=viveksaha05&show_icons=true&theme=dark&locale=en&layout=compact" alt="viveksaha05" /></td>
- </tr>
-</table>
+## 🏆 GitHub Stats
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=VivekSaha05&theme=tokyonight_duo&border_radius=10" alt="viveksaha05" /></p>
- </div>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=viveksaha05&show_icons=true&theme=dark&locale=en" alt="viveksaha05" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viveksaha05&show_icons=true&theme=dark&locale=en&layout=compact" alt="viveksaha05" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VivekSaha05&theme=tokyonight_duo&border_radius=10" alt="viveksaha05" />
+
+</div>
