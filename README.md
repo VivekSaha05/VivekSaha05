@@ -1,122 +1,179 @@
-[![20220920_155307](https://user-images.githubusercontent.com/108818360/191234321-50af8b69-2e7d-4060-b05c-d1fdb8ec2b83.png)](https://github.com/viveksaha05)
+<!-- ===================== HEADER ===================== -->
 
-<h1 align="center">Hello World, I'm <a href="https://linkedin.com/in/viveksaha05" target="_blank"> Vivek Saha </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Carter+One&pause=1000&color=3EC156&center=true&width=435&lines=I%E2%80%99m+not+lazy.+I%E2%80%99m+just+on+energy+saving+mode+!;+If+it+works%2C+don%E2%80%99t+touch+it+again+%3A)" /> </h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif?cid=790b7611b9614e167ed147d113987d7e952266171629ec97&rid=giphy.gif&ct=g">
+<h1 align="center">
+  Hey, I'm Vivek Saha
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-<a href="https://linktr.ee/viveksaha" target="_blank"><img alt="LinkTree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a> <br>
-<a href="https://visitorbadge.io/status?path=VivekSaha05"><img src="https://api.visitorbadge.io/api/visitors?path=VivekSaha05&label=Total%20Visitors&countColor=%2337d67a" /></a>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Carter+One&pause=1000&color=3EC156&center=true&width=480&lines=Full+Stack+Developer+%E2%80%A2+MERN+Stack;DSA+in+JavaScript+%E2%80%A2+Web3+Explorer;Anime+at+heart+%E2%80%A2+Code+by+day;If+it+works%2C+don%E2%80%99t+touch+it+again+%3A)" alt="Typing SVG" />
+</h3>
 
-- 🔭 Currently improving my **DSA skills (JS)**
+<p align="center">
+  <a href="https://viveksaha.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-3EC156?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="https://linktr.ee/viveksaha" target="_blank"><img alt="LinkTree" src="https://img.shields.io/badge/LinkTree-39E09B?style=flat-square&logo=linktree&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/viveksaha05" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <img src="https://api.visitorbadge.io/api/visitors?path=viveksaha05&label=Profile%20Views&countColor=%2337d67a&style=flat-square" alt="Visitors" />
+</p>
 
-- 🌱 Learning and building with the **MERN Stack (Web2)**
+<!-- ===================== ABOUT ===================== -->
 
-- 🏊🏻 Preparing to dive into the exciting world of *Web3 & Blockchain*
+## 👨‍💻 About Me
 
-- 📷 I also run a **<a href="https://www.youtube.com/c/VivekSaha?sub_confirmation=1" target="_blank">Youtube Channel</a>**
+```js
+const vivek = {
+  role: "Full Stack Developer",
+  stack: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js", "Express", "MongoDB"],
+  currentlyLearning: ["Advanced DSA", "Web3 & Blockchain"],
+  askMeAbout: ["Web Dev", "Tech", "Anime"],
+  funFact: "Watashi wa kaizoku-ō ni narimasu! 🏴‍☠️",
+};
+```
 
-- 👨‍💻 All of my projects are available at **<a href="https://viveksaha.vercel.app/" target="_blank">Portfolio</a>**
+A working developer who turns ideas into clean, working web apps — and occasionally
+breaks them at 2 AM. Off the clock, I'm building side projects, grinding DSA, or
+catching up on anime.
 
-- 💬 Ask me about **Web Development, Tech, or Anime**
+- 🔭 &nbsp;Building production apps with the **MERN Stack**
+- 🧠 &nbsp;Sharpening **Data Structures & Algorithms** in JavaScript
+- 🌊 &nbsp;Exploring **Web3 & Blockchain** development
+- 📷 &nbsp;Sharing tech on my **[YouTube Channel](https://www.youtube.com/c/VivekSaha?sub_confirmation=1)**
+- 🌐 &nbsp;All my work lives on my **[Portfolio](https://viveksaha.vercel.app/)**
+- 📫 &nbsp;Reach me at **viveksahapop@gmail.com**
 
-- 📫 Reach me at: **viveksahapop@gmail.com**
+<!-- ===================== TECH STACK ===================== -->
 
-- 🔥 Fun fact *Watashi wa kaizoku-ō ni narimasu! 🏴‍☠️*
+## 🛠️ Tech Stack
 
-<h2 align="left">Connect with me :</h2>
-<div align="left">
-  <a href="https://linkedin.com/in/viveksaha05" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <a href="mailto:viveksahapop@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.youtube.com/c/viveksaha?sub_confirmation=1" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-   <a href="https://instagram.com/vivek_saiyan" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-   <a href="https://twitter.com/vivek_saha2" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-   <a href="https://fb.com/viveksaha05" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-   <a href="https://t.me/Vivek_Saha" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</div>
+**Languages**
 
-<h3 align="left">Web Tech Stack :</h3>
-<div align="left">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/> 
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<br>
-  <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+**Frontend**
 
-<!-- <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-<img alt="chakraui" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
-<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-<img alt="sockteio" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
-<img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> -->
-</div>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-<h3 align="left">Languages :</h3>
-<div align="left">
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-<!--   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-<!--   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/> -->
-</div>
+**Backend**
 
-<h3 align="left">Databases :</h3>
-<div align="left">
-    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<!--   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-   -->
-</div>
+![Node.js](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
+**Databases**
 
-<h3 align="left">Hosting :</h3>
-<div align="left">
-    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-<!--   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<!--   <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/> -->
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-<!--   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
-</div> -->
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h3 align="left">Other :</h3>
-<div align="left">
-  <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="Android Studio" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
-  <img alt="Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-  <a href="https://myanimelist.net/profile/Vivek_Saha" target="_blank"><img alt="MyAnimeList" src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"/></a>
-</div><br/>
+**Tools & Platforms**
 
-## 🏆 GitHub Stats
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+**Design & Media**
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+**Concepts**
+
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-3EC156?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive%20Design-563D7C?style=for-the-badge&logo=css3&logoColor=white)
+
+<!-- ===================== PROJECTS ===================== -->
+
+<!-- ## 🚀 Featured Projects
+
+> _Pin your 3–4 best repos and swap the placeholders below for real details._
+
+| Project | Description | Tech | Links |
+| :------ | :---------- | :--- | :---- |
+| **Project One** | One line on what it does and why it stands out. | React · Node · MongoDB | [Live](#) · [Code](#) |
+| **Project Two** | One line on what it does and why it stands out. | Next.js · Tailwind | [Live](#) · [Code](#) |
+| **Project Three** | One line on what it does and why it stands out. | MERN | [Live](#) · [Code](#) | -->
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=viveksaha05&show_icons=true&theme=dark&locale=en" alt="viveksaha05" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viveksaha05&show_icons=true&theme=dark&locale=en&layout=compact" alt="viveksaha05" />
-    </td>
-  </tr>
-</table>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=viveksaha05&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=VivekSaha05&theme=tokyonight_duo&border_radius=10" alt="viveksaha05" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=viveksaha05&theme=tokyo-night&hide_border=true&radius=10&area=true" alt="Activity Graph" width="95%" />
+
+<br/>
+
+<!-- Animated contribution snake — setup note at the bottom of this file -->
+<!-- <img src="https://raw.githubusercontent.com/viveksaha05/viveksaha05/output/snake.svg" alt="Snake animation" /> -->
 
 </div>
+
+<!-- ===================== CONNECT ===================== -->
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/viveksaha05" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:viveksahapop@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.youtube.com/c/viveksaha?sub_confirmation=1" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://instagram.com/vivek_saiyan" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitter.com/vivek_saha2" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://t.me/Vivek_Saha" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://myanimelist.net/profile/Vivek_Saha" target="_blank"><img alt="MyAnimeList" src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"/></a>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+
+<br/>
+
+<p align="center"><i>"Watashi wa kaizoku-ō ni narimasu!" — Vivek Saha 🏴‍☠️</i></p>
+
+<!--
+SETUP NOTE — Snake animation:
+The snake graph needs a one-time GitHub Action. In your profile repo
+(named exactly "viveksaha05"), add this file: .github/workflows/snake.yml
+
+name: Generate Snake
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: viveksaha05
+          outputs: dist/snake.svg
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+Don't want the snake? Just delete its <img> line in the GitHub Activity section.
+-->
