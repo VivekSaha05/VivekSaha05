@@ -24,14 +24,14 @@
 const vivek = {
   role: "Full Stack Developer",
   stack: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js", "Express", "MongoDB"],
-  currentlyLearning: ["Advanced DSA", "Web3 & Blockchain"],
+  currentlyLearning: ["DSA", "System Design", "Web3 & Blockchain"],
   askMeAbout: ["Web Dev", "Tech", "Anime"],
   funFact: "Watashi wa kaizoku-ō ni narimasu! 🏴‍☠️",
 };
 ```
 
 A working developer who turns ideas into clean, working web apps — and occasionally
-breaks them at 2 AM. Off the clock, I'm building side projects, grinding DSA, or
+breaks them at 3 AM. Off the clock, I'm building side projects, grinding DSA, or
 catching up on anime.
 
 - 🔭 &nbsp;Building production apps with the **MERN Stack**
